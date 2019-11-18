@@ -1,0 +1,2 @@
+# ICCJMPlanner
+Competition Planner
